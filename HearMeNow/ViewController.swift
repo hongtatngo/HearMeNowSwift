@@ -4,7 +4,7 @@
 //
 //  Created by NIE on 19/10/15.
 //  Copyright (c) 2015 NIE. All rights reserved.
-//
+//  This is the View Controller
 
 import UIKit
 import AVFoundation
